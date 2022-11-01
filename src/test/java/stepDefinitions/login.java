@@ -10,6 +10,7 @@ public class login {
     public void user_is_on_test_server() {
         // Write code here that turns the phrase above into concrete actions
         System.out.println("testServer");
+        System.out.println("testing git commands");
         //throw new io.cucumber.java.PendingException();
     }
 
