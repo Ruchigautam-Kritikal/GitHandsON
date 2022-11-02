@@ -18,6 +18,7 @@ public class login {
     public void teacher_provides_correct_credentials() {
         // Write code here that turns the phrase above into concrete actions
         System.out.println("credentials");
+        System.out.println("credentials1");
         //throw new io.cucumber.java.PendingException();
     }
 
@@ -25,6 +26,7 @@ public class login {
     public void teacher_home_page_appears() {
         // Write code here that turns the phrase above into concrete actions
         System.out.println("teacher home page");
+        System.out.println("credentials2");
         //throw new io.cucumber.java.PendingException();
     }
 
